@@ -1,7 +1,7 @@
 ---
-layout: defualt
+layout: default
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 Hi mi name is Juan David and I have 1 year of work experience in cybersecurity field. 
