@@ -8,5 +8,5 @@ permalink: /
 ---
 
 # Hello Word 
-[Ir al primer blog](/jekyll/update/2023/09/24/mi-primera-entrada/)
+[Ir al primer blog](/2023/09/24/mi-primera-entrada/)
 
